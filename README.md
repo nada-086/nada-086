@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nada Essa</h1>
-<h3 align="center">A passionate JavaScript Developer from Egypt</h3>
+<h3 align="center">A passionate CSE Student from Egypt</h3>
 
 - 🌱 I’m currently learning **React, NodeJS and AWS Cloud**
 
