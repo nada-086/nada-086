@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm passionate about **DevOps, Cybersecurity, and 
 Here are some of the tools and technologies I work with:
 
 ![Languages and Tools](https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,ansible,terraform,prometheus,github,nginx,python)
+![Argo CD](https://argo-cd.readthedocs.io/en/stable/assets/logo.png)
 
 ---
 
