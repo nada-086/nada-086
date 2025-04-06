@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Nada Essa!
 
-<!--
-**nada-086/nada-086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about **DevOps, Cybersecurity, and Infrastructure**, and I love automating and securing systems from the ground up.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: Enhancing my automation skills and exploring secure infrastructure design.
+- 🌱 I’m learning: Various DevOps tools and Web/API Penetration Testing techniques.
+- 👯 I’m looking to collaborate on: DevOps projects with a strong focus on security and automation.
+- 💬 Ask me about: DevSecOps, CI/CD, container security, or anything in between.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nada-essa-ne8/)
+
+## 🛠️ Languages and Tools
+
+Here are some of the tools and technologies I work with:
+
+![Languages and Tools](https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,ansible,terraform,argocd,prometheus,github,nginx,python)
+
+---
+
+Thanks for stopping by! Feel free to explore my repos or reach out if you'd like to connect or collaborate! 🚀
