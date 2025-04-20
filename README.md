@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about **DevOps, Cybersecurity, and 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on: Enhancing my automation skills and exploring secure infrastructure design.
-- 🌱 I’m learning: Various DevOps tools and Web/API Penetration Testing techniques.
+- 🌱 I’m learning: Various DevOps tools and Reverse Engineering.
 - 👯 I’m looking to collaborate on: DevOps projects with a strong focus on security and automation.
 - 💬 Ask me about: DevSecOps, CI/CD, container security, or anything in between.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nada-essa-ne8/)
