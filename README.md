@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Nada Essa!
 
-Welcome to my GitHub profile! I'm passionate about **DevOps, Cybersecurity, and Infrastructure**, and I love automating and securing systems from the ground up.
+Welcome to my GitHub profile! I'm passionate about **DevOps, Platform Development and Infrastructure**, and I love automating systems from the ground up.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: Enhancing my automation skills and exploring secure infrastructure design.
-- 🌱 I’m learning: Various DevOps tools and Reverse Engineering.
-- 👯 I’m looking to collaborate on: DevOps projects with a strong focus on security and automation.
-- 💬 Ask me about: DevSecOps, CI/CD, container security, or anything in between.
+- 🔭 I’m currently working on: Enhancing my automation skills and exploring infrastructure design.
+- 🌱 I’m learning: Various DevOps tools and Software Engineering.
+- 👯 I’m looking to collaborate on: DevOps projects with a strong focus on development and automation.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nada-essa-ne8/)
 
 ## 🛠️ Languages and Tools
