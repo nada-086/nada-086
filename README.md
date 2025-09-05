@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nada Essa!
 
-Welcome to my GitHub profile! I'm passionate about **DevOps and Data Engineering**, and I love automating systems from the ground up.
+Welcome to my GitHub profile! I'm passionate about **DevOps**, and I love automating systems from the ground up.
 
 ## 🚀 About Me
 
